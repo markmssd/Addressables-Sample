@@ -1,0 +1,1 @@
+echo "*** PLATFORM_HOST: $PLATFORM_HOST"
